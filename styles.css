@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    margin: 70px auto;
+    width: 35%;
+}
+
+.square {
+    width: 150px;
+    height: 150px;
+    margin: 15px 7.5px 15px 7.5px;
+    background-color: gray;
+}
+
+.color_pink {
+    background-color: #DarkSalmon;
+}
+
+.color_green {
+    background-color: DarkSeaGreen;
+}
