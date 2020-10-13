@@ -1,7 +1,7 @@
 .container {
     display: flex;
     margin: 70px auto;
-    width: 35%;
+    width: 500px;
 }
 
 .square {
@@ -9,10 +9,11 @@
     height: 150px;
     margin: 15px 7.5px 15px 7.5px;
     background-color: gray;
+    cursor: pointer;
 }
 
 .color_pink {
-    background-color: #DarkSalmon;
+    background-color: DarkSalmon;
 }
 
 .color_green {
